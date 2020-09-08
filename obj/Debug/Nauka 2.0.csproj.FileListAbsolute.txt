@@ -1,0 +1,10 @@
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\bin\Debug\Nauka 2.0.exe.config
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\bin\Debug\Nauka 2.0.exe
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\bin\Debug\Nauka 2.0.pdb
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\obj\Debug\Nauka 2.0.csprojAssemblyReference.cache
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\obj\Debug\Nauka_2._0.Form1.resources
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\obj\Debug\Nauka_2._0.Properties.Resources.resources
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\obj\Debug\Nauka 2.0.csproj.GenerateResource.cache
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\obj\Debug\Nauka 2.0.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\obj\Debug\Nauka 2.0.exe
+C:\Users\diana\source\repos\Nauka 2.0\Nauka 2.0\obj\Debug\Nauka 2.0.pdb
